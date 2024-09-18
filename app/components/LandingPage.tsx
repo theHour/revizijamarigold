@@ -30,7 +30,7 @@ export default function LandingPage() {
           <div className="relative z-10 p-12 md:p-16 lg:p-20 text-center">
             <h2 className="text-4xl font-semibold text-white mb-6">MARIGOLD</h2>
             <p className="text-orange-50 text-xl mx-auto max-w-3xl">
-            Društvo za reviziju i konsalting
+              Društvo za reviziju i konsalting
             </p>
           </div>
         </section>
