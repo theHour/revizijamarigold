@@ -21,7 +21,7 @@ export default function LandingPage() {
         <section className="mb-12 relative overflow-hidden rounded-lg shadow-lg">
           <div className="absolute inset-0">
             <img
-              src="https://www.revizijamarigold.com/public/images/background.jpg"
+              src="/background-image.jpg"
               alt="Marigold Auditing background"
               className="w-full h-full object-cover object-center"
             />
