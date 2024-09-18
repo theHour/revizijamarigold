@@ -8,7 +8,7 @@ export default function LandingPage() {
           <div className="w-40 h-12 relative">
             <Image
               src="/logo-color.png?height=48&width=160"
-              alt="Marigold Auditing Logo"
+              alt="Marigold Logo"
               layout="fill"
               objectFit="contain"
               objectPosition="left"
@@ -30,7 +30,7 @@ export default function LandingPage() {
           <div className="relative z-10 p-12 md:p-16 lg:p-20 text-center">
             <h2 className="text-4xl font-semibold text-white mb-6">MARIGOLD</h2>
             <p className="text-orange-50 text-xl mx-auto max-w-3xl">
-              Društvo za reviziju i konsalting
+              Stranica u izradi
             </p>
           </div>
         </section>
